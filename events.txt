@@ -1,2 +1,5 @@
+ Updated upstream
 -e "Annual TechFest - Oct 15 - Main Auditorium\nCultural Fest - Nov 20 - Open Air Theater" 
 Workshops -Dec 01 - Room 101
+-e "Annual TechFest 2026 - Oct 15 - Main Auditorium\nCultural Fest - Nov 20 - Open Air Theater" 
+Stashed changes
